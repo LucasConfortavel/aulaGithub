@@ -1,0 +1,1 @@
+print('lukinhas o rei do frifas, só capa kk, nobru apelaum')
